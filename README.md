@@ -3,6 +3,12 @@
 ## 📌 Overview
 The **Baby Care Mobile Application** is a comprehensive digital parenting assistant designed to support expectant mothers and parents of newborns up to 4 years old. The app provides features like health monitoring, emergency assistance, reminders, nanny supervision, and entertainment for babies. It also includes a **marketplace** for essential baby products and offers **freemium** and **premium** services for monetization.
 
+![interface 1](https://github.com/user-attachments/assets/19c8722b-e850-4cc9-b186-6a66cb61deb0)
+![interface 2](https://github.com/user-attachments/assets/4b6add42-0ece-4621-b832-2e9e8203f4c8)
+![interface 29](https://github.com/user-attachments/assets/4a632e34-df4c-458a-a4ef-8d7cb9ed8978)
+
+
+
 ## 🚀 Features
 ### 🏥 Before Birth (Pregnant Mothers)
 - Health reports, weight tracking, and first aid support.
