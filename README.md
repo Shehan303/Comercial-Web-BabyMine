@@ -1,7 +1,7 @@
-# Baby Care Mobile Application
+# Baby Mine Mobile Application
 
 ## 📌 Overview
-The **Baby Care Mobile Application** is a comprehensive digital parenting assistant designed to support expectant mothers and parents of newborns up to 4 years old. The app provides features like health monitoring, emergency assistance, reminders, nanny supervision, and entertainment for babies. It also includes a **marketplace** for essential baby products and offers **freemium** and **premium** services for monetization.
+The **Baby Mine Mobile Application** is a comprehensive digital parenting assistant designed to support expectant mothers and parents of newborns up to 4 years old. The app provides features like health monitoring, emergency assistance, reminders, nanny supervision, and entertainment for babies. It also includes a **marketplace** for essential baby products and offers **freemium** and **premium** services for monetization.
 
 ![Business-Facebook-Cover-04](https://github.com/user-attachments/assets/3cc8313f-9fb2-445e-880f-3dd4d4b764d7)
 
