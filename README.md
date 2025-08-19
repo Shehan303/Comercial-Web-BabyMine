@@ -1,4 +1,4 @@
-🌸 Baby Mine – Pregnancy & Baby Care Companion
+###🌸 Baby Mine – Pregnancy & Baby Care Companion
 
 <img width="4000" height="1200" alt="baby mine main banner 1" src="https://github.com/user-attachments/assets/892e1615-f45f-4cff-aaa6-9f966e0b7224" />
 
@@ -8,7 +8,7 @@
 Baby Mine is a pregnancy and baby care companion platform that provides guidance, support, and trusted services for parents from conception through early childhood.
 Our web application showcases the Baby Mine mobile app, services, and community, acting as a commercial and informational website for families and caregivers.
 
-✨ Features
+#✨ Features
 
 🍼 Pregnancy & Baby Care Services
 Comprehensive tools and services designed to support mothers and babies.
@@ -28,54 +28,36 @@ A safe space for parents to connect, share experiences, and find resources.
 📖 Knowledge Hub
 Articles, guides, and tips curated by experts to support parenting journeys.
 
-🖼️ Website Sections
+#🖼️ Website Sections
 
 Hero Section – Introduction, app promotion, quick actions.
-
 Features Section – Why choose Baby Mine.
-
 Pregnancy Care Section – Support through all trimesters.
-
 Nanny Services Section – Step-by-step childcare hiring process.
-
 App Showcase – Screenshots & download buttons.
-
 About Us – Mission, vision, and team.
-
 Contact Section – Location, email, phone, and contact form.
-
 Footer – Company info, resources, legal, and newsletter subscription.
 
-🛠️ Tech Stack
+#🛠️ Tech Stack
 
 Frontend: HTML5, CSS3, JavaScript
-
 Styling: Google Fonts (Poppins & Playfair Display), Font Awesome Icons
-
 Animations: CSS transitions, fade-in effects
-
 Responsive Design: Mobile-friendly layout
-
 Assets: Custom illustrations, app store buttons, product images
 
-📲 Baby Mine Mobile App
-
+#📲 Baby Mine Mobile App
 This website complements the Baby Mine Mobile Application, available on:
 
-App Store
- 🍏
+App Store  🍏
 
-Google Play
- 🤖
+Google Play 🤖
 
-👩‍👩‍👦 Target Audience
-
+#👩‍👩‍👦 Target Audience
 Expecting mothers (during pregnancy)
-
 Parents of newborns to toddlers (0–4 years)
-
 Families looking for nanny services or professional guidance
-
 Caregivers and guardians
 
 🌟 Vision
@@ -86,9 +68,7 @@ Our mission is to empower parents with knowledge, tools, and trusted services, e
 📧 Contact
 
 🌍 Website: babymine.com
-
 📩 Email: hello@babymine.com
-
 ☎️ Phone: +1 (800) 123-4567
 
 📜 License
